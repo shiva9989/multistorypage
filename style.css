@@ -1,0 +1,82 @@
+.main{
+    display: flex;
+     border: 3px solid grey;
+     justify-content: space-evenly;
+     text-align: center;
+     font-family: Verdana, Geneva, Tahoma, sans-serif;
+     margin-top: 150px;
+}
+.a{
+    height: 250px;
+    width: 250px;
+    border-radius: 50%;
+    padding-top: 20px;
+    box-shadow: 5px 5px black;
+    opacity: 0.5;
+}
+.mainpage{
+    background-image: url("./Default_war_of_mahabharatam_in_night_0.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h3,h1{
+    color: aliceblue;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.s1{
+    background-image: url("./yudistira.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+p{
+    color:aliceblue;
+    font-size: large;
+    text-align: justify;
+    
+}
+.img-d{
+    justify-content: right;
+    padding-left: 20px;
+}
+.s2{
+    background-image: url("./arjunabg.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: justify;
+
+}
+.img-a{
+    height: 600px;
+    width:400px;
+    padding-left: 20px;
+}
+.s3{
+    background-image: url("./beemabg.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: justify;
+
+}
+.img-b{
+    height: 600px;
+    width: 400px;
+    padding-left: 20px;
+
+}
+.img-k{
+    height: 600px;
+    width: 400px;
+    padding-left: 20px;
+
+}
+.s4{
+    background-image: url("./karnabg2.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: justify;
+
+}
+.a:hover{
+    opacity: 1.0;
+}
